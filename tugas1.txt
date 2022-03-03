@@ -1,0 +1,17 @@
+Microsoft Windows [Version 10.0.19042.1348]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\LENOVO>cd..
+
+C:\Users>cd..
+
+C:\>cd xampp
+
+C:\xampp>cd htdocs
+
+C:\xampp\htdocs>php tugas.php
+Nama : Rizki Agung Alamsyah
+Nim : 20090070
+Kelas : 4A
+
+C:\xampp\htdocs>
